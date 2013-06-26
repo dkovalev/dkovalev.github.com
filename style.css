@@ -329,6 +329,7 @@ border-width: 0px 1px 1px;
 	width: 150px;
 	padding: 3px 0px 1px 0;
 	color: #777;
+	vertical-align:text-top;
 }
 
 .content .right .profile_info .answer {
